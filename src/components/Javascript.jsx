@@ -12,7 +12,7 @@ const Javascript = () => {
         {dbJavascriptBasic.map(product => (
                     <div className="card-video-javascript" key={product.id}>
                     <ReactPlayer url={product.vidUrl} controls
-                    style={{ width: '300px', maxWidth: '100%' }}
+                    style={{ width: '250px', maxWidth: '100%' }}
                         />
                         <div className="description-javascrip">
                             <h2 className='title-javascript'>{product.title}</h2>
