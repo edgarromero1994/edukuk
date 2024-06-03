@@ -1,0 +1,93 @@
+.container-javascript-advanced {
+    margin: 0 20px;
+    height: 100vh;
+    margin-top: 70px;
+    padding: 20px;
+}
+
+  .title-javascript-advanced{
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .container-social {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 40px;
+    margin-top: 40px;
+  }
+  
+  .icon-social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .whatsapp-button, .google-form-button {
+    background-color: #25D366; /* Color de WhatsApp */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px; /* Ajusta el margen entre botones según necesites */
+  }
+  
+  .google-form-button {
+    background-color: #4285F4; /* Color de Google Forms */
+  }
+  
+  .google-discord {
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px; 
+    background-color: #7289DA;
+  }
+
+  .whatsapp-button:hover, .google-form-button:hover,   .google-discord:hover {
+    opacity: 0.8;
+  }
+
+  .information-social {
+    margin-top: 20px;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .information-social p {
+    margin-bottom: 10px;
+  }
+  
+  .information-other{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .paypal {
+    width: 80px;
+    right: 100px;
+    cursor: pointer;
+  }
+
+  .information-other p {
+    margin-bottom: 20px;
+    font-style: italic;
+  }
+
+
+  @media (max-width:724px) {
+    .container-social {
+      flex-direction: column;
+    }
+  }
+  
+  

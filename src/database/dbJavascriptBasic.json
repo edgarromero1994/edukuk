@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Curso de JavaScript desde cero #1, Tipos de datos, Number, String, Booleano, Null y undefined",
+        "vidUrl": "https://youtu.be/D2Sp3gM2nNo"
+    },
+    {
+        "id": 2,
+        "title": "Curso de JavaScript Desde Cero(0) #2, Operadores aritméticos, de  comparación y de  lógicos.",
+        "vidUrl": "https://youtu.be/kugnuKUIFR4"
+    },
+    {
+        "id": 3,
+        "title": "Curso de JavaScript desde cero #3, Condicionales If y Else",
+        "vidUrl": "https://youtu.be/7BMtT8gLjiE"
+    },
+    {
+        "id": 4,
+        "title": "Curso de JavaScript desde cero #4, Notación de corchetes y la propiedad length en JavaScript",
+        "vidUrl": "https://youtu.be/YAsHOYJ0Huk"
+    },
+    {
+        "id": 5,
+        "title": "Curso de JavaScript desde cero #5, Bucle o ciclo for",
+        "vidUrl": "https://youtu.be/W3jgot4IvY4"
+    },
+    
+    {
+        "id": 6,
+        "title": "Curso de JavaScript desde cero #6, funciones en JavaScriptCurso de JavaScript desde cero #5, Bucle o ciclo for",
+        "vidUrl": "https://youtu.be/B8-LO1PPb5U"
+    },
+    
+    {
+        "id": 7,
+        "title": "Curso de JavaScript desde cero #7 - Función de Flecha o arrow functions en Javascript",
+        "vidUrl": "https://youtu.be/qk70VzoPJBw"
+    },
+    
+    {
+        "id": 8,
+        "title": "Curso de JavaScript desde cero #8, arreglos o arrays [] en javascript",
+        "vidUrl": "https://youtu.be/bE7tO5lcg0Q"
+    },
+    
+    {
+        "id": 9,
+        "title": "Curso de JavaScript desde cero #9, métodos para manipular un arreglo, push, pop, shift, unshift",
+        "vidUrl": "https://youtu.be/2y8O8klXhfM"
+    }
+    
+]

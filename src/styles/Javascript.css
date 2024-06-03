@@ -1,0 +1,19 @@
+.container-javascript {
+  margin: 0 20px;
+}
+
+.container-javascript h1 {
+  font-size: 1.7rem;
+}
+
+.container-video-javascrip {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+ gap: 20px;
+ margin: 10px;
+}
+
+.title-javascript {
+  margin: 0;
+ font-size: 1rem;
+}
